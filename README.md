@@ -29,5 +29,5 @@ This project is a simple React application that demonstrates how to integrate Fi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/VikashAnandJha/FirebaseReact
+cd FirebaseReact
